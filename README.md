@@ -16,137 +16,62 @@
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-🎓 Final Year B.Tech Student in **Artificial Intelligence & Machine Learning (AIML)**
+🎓 Final Year B.Tech in Artificial Intelligence & Machine Learning (AIML)
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI**
+📍 India
 
-📊 Currently building intelligent applications that transform raw data into meaningful insights.
+💡 Passionate about Machine Learning, Data Analytics and AI-powered Applications.
 
-🔥 Strong interest in
+📊 Currently learning
 
-- Machine Learning
-- Data Analytics
-- Python Development
-- SQL
-- AI Automation
-- Business Intelligence
-
-🌱 Currently Learning
-
-- Advanced SQL
+- Advanced Data Analytics
 - Power BI
-- Data Analytics
-- LangChain
+- SQL
+- Generative AI
 - LLM Applications
-- MLOps
 
-🎯 Goal
+🌱 Current Focus
 
-To become an AI Engineer/Data Scientist building impactful AI products used by millions.
+- Building production-ready AI Projects
+- Data Analytics Portfolio
+- Open Source Contributions
+- Internship Preparation
 
----
+🎯 Career Goal
 
-# 🚀 Featured Projects
-
-### 📊 AI Data Analytics Assistant *(Currently Building)*
-
-Upload CSV, Excel, PDF or Images and receive
-
-✅ AI Insights
-
-✅ Interactive Charts
-
-✅ Data Cleaning
-
-✅ Statistical Analysis
-
-✅ Automated Reports
+Become an AI/Data Engineer who builds scalable intelligent systems solving real-world business problems.
 
 ---
 
-### 📩 Spam SMS Detection
+# 🛠 Tech Stack
 
-Machine Learning powered spam classifier
-
-✔ TF-IDF
-
-✔ NLP
-
-✔ Scikit-Learn
-
-✔ High Accuracy
-
----
-
-### 👨‍💼 Employee Performance Classification
-
-Predict employee performance using Machine Learning.
-
-✔ Data Cleaning
-
-✔ Feature Engineering
-
-✔ Model Training
-
-✔ Business Analytics
-
----
-
-### ☀ Solar Power Prediction
-
-Forecast solar energy generation using historical and weather datasets.
-
----
-
-# 🧠 Tech Stack
-
-## Programming
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
----
+### Data Science
 
-## Data Analytics
+Pandas • NumPy • Scikit-Learn • TensorFlow • Matplotlib • Seaborn
 
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Power BI
-
-Excel
-
-SQL
-
----
-
-## Machine Learning
-
-Scikit-Learn
-
-TensorFlow
+### AI
 
 Machine Learning
 
-Deep Learning
+Data Analytics
 
-NLP
+Classification
+
+Regression
 
 Feature Engineering
 
-Model Deployment
+Model Evaluation
 
----
-
-## Tools
+### Tools
 
 Git
 
@@ -160,84 +85,115 @@ Google Colab
 
 Canva
 
-Docker *(Learning)*
+---
+
+# 🚀 Featured Projects
+
+## 📩 Spam SMS Detection
+
+✔ NLP Based Spam Classifier
+
+✔ TF-IDF + Machine Learning
+
+✔ 99% Accuracy
+
+Tech Stack:
+
+Python
+
+Scikit-Learn
+
+NLP
 
 ---
 
-# 📈 GitHub Statistics
+## 👨‍💼 Employee Performance Classification
+
+Predict employee performance using Machine Learning.
+
+Features:
+
+✔ Data Cleaning
+
+✔ Feature Engineering
+
+✔ Classification Models
+
+✔ Business Insights
+
+---
+
+## 📊 AI Data Analytics Assistant
+
+An intelligent analytics application where users upload:
+
+• CSV
+
+• Excel
+
+• Images
+
+• PDFs
+
+and receive
+
+✔ Automated Analysis
+
+✔ Visualizations
+
+✔ AI Generated Insights
+
+✔ Interactive Reports
+
+(Currently Building 🚧)
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=theedharmik&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=theedharmik&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theedharmik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=theedharmik&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=theedharmik&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theedharmik&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
-
-[![Dharmik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theedharmik&theme=tokyo-night)]()
-
----
-
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=theedharmik&theme=tokyonight&column=4&margin-w=15&margin-h=15)]()
-
----
-
-# 📚 Currently Exploring
-
-- 🤖 Generative AI
-- 🧠 LLM Applications
-- 📈 Data Analytics
-- 📊 Power BI
-- ☁ Cloud Computing
-- 🐳 Docker
-- 🚀 MLOps
-
----
-
-# 🌐 Connect With Me
+# 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/dharmik-parashar-5793a8293/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:dharmikparashar02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://instagram.com/theedharmik">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<a href="YOUR PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+## 📚 Currently Learning
 
-> **"Artificial Intelligence isn't about replacing humans; it's about empowering them with better decisions."**
+- Data Analytics
+- Power BI
+- Advanced SQL
+- Machine Learning Deployment
+- LangChain
+- Generative AI
 
 ---
 
-<div align="center">
+## ⚡ Fun Fact
 
-## ⭐ Thanks for visiting my profile!
-
-### If you like my work, don't forget to ⭐ my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
-
-</div>
+> "I enjoy transforming raw data into meaningful insights and building AI solutions that solve real-world problems."
