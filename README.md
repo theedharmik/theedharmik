@@ -1,5 +1,22 @@
+<div align="center">
+
+# 👋 Hi, I'm **Dharmik Parashar**
+
+### 🚀 AI & Machine Learning Engineer | Data Analytics Enthusiast | Python Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+Enthusiast;Python+Developer;Building+AI+Solutions;Future+Data+Scientist;Always+Learning+New+Things" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=theedharmik&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/theedharmik?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/theedharmik?affiliations=OWNER&style=for-the-badge" />
+</p>
+
+</div>
+
+---
 # 💫 About Me:
-**Introduction**<br><br>Hello, my name is **Dharmik Parashar**. I am a final-year **B.Tech student in Artificial Intelligence and Machine Learning (AIML)** with a strong academic record and a passion for solving real-world problems using data and AI.<br><br>I have hands-on experience in **Python, Machine Learning, Data Analytics, SQL, and Data Visualization**, and I enjoy building intelligent applications that combine analytical thinking with practical implementation. Some of the projects I have worked on include **Spam SMS Detection**, **Employee Performance Classification**, and AI-based data analysis applications.<br><br>Currently, I am expanding my skills in **Data Analytics** while preparing for software and data-related internships. I am particularly interested in developing AI-powered solutions that automate decision-making and improve business processes.<br><br>I am a quick learner, enjoy working on challenging projects, and continuously strive to improve my technical and problem-solving abilities. My goal is to build a successful career in AI and Data Analytics while contributing to impactful and innovative technology solutions.<br>
+**Introduction**<br><br>I am a final-year **B.Tech student in Artificial Intelligence and Machine Learning (AIML)** with a strong academic record and a passion for solving real-world problems using data and AI.<br><br>I have hands-on experience in **Python, Machine Learning, Data Analytics, SQL, and Data Visualization**, and I enjoy building intelligent applications that combine analytical thinking with practical implementation. Some of the projects I have worked on include **Spam SMS Detection**, **Employee Performance Classification**, and AI-based data analysis applications.<br><br>Currently, I am expanding my skills in **Data Analytics** while preparing for software and data-related internships. I am particularly interested in developing AI-powered solutions that automate decision-making and improve business processes.<br><br>I am a quick learner, enjoy working on challenging projects, and continuously strive to improve my technical and problem-solving abilities. My goal is to build a successful career in AI and Data Analytics while contributing to impactful and innovative technology solutions.<br>
 
 
 ## 🌐 Socials:
