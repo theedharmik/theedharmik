@@ -1,18 +1,243 @@
-# 💫 About Me:
-**Introduction**<br><br>Hello, my name is **Dharmik Parashar**. I am a final-year **B.Tech student in Artificial Intelligence and Machine Learning (AIML)** with a strong academic record and a passion for solving real-world problems using data and AI.<br><br>I have hands-on experience in **Python, Machine Learning, Data Analytics, SQL, and Data Visualization**, and I enjoy building intelligent applications that combine analytical thinking with practical implementation. Some of the projects I have worked on include **Spam SMS Detection**, **Employee Performance Classification**, and AI-based data analysis applications.<br><br>Currently, I am expanding my skills in **Data Analytics** while preparing for software and data-related internships. I am particularly interested in developing AI-powered solutions that automate decision-making and improve business processes.<br><br>I am a quick learner, enjoy working on challenging projects, and continuously strive to improve my technical and problem-solving abilities. My goal is to build a successful career in AI and Data Analytics while contributing to impactful and innovative technology solutions.<br>
+<div align="center">
 
+# 👋 Hi, I'm **Dharmik Parashar**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@theedharmik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dharmik-parashar-5793a8293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:DHARMIKPARASHAR02@GMAIL.COM) 
+### 🚀 AI & Machine Learning Engineer | Data Analytics Enthusiast | Python Developer
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=theedharmik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=theedharmik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=theedharmik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+Enthusiast;Python+Developer;Building+AI+Solutions;Future+Data+Scientist;Always+Learning+New+Things" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=theedharmik&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/theedharmik?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/theedharmik?affiliations=OWNER&style=for-the-badge" />
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=theedharmik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Final Year B.Tech Student in **Artificial Intelligence & Machine Learning (AIML)**
+
+💡 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI**
+
+📊 Currently building intelligent applications that transform raw data into meaningful insights.
+
+🔥 Strong interest in
+
+- Machine Learning
+- Data Analytics
+- Python Development
+- SQL
+- AI Automation
+- Business Intelligence
+
+🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Analytics
+- LangChain
+- LLM Applications
+- MLOps
+
+🎯 Goal
+
+To become an AI Engineer/Data Scientist building impactful AI products used by millions.
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 AI Data Analytics Assistant *(Currently Building)*
+
+Upload CSV, Excel, PDF or Images and receive
+
+✅ AI Insights
+
+✅ Interactive Charts
+
+✅ Data Cleaning
+
+✅ Statistical Analysis
+
+✅ Automated Reports
+
+---
+
+### 📩 Spam SMS Detection
+
+Machine Learning powered spam classifier
+
+✔ TF-IDF
+
+✔ NLP
+
+✔ Scikit-Learn
+
+✔ High Accuracy
+
+---
+
+### 👨‍💼 Employee Performance Classification
+
+Predict employee performance using Machine Learning.
+
+✔ Data Cleaning
+
+✔ Feature Engineering
+
+✔ Model Training
+
+✔ Business Analytics
+
+---
+
+### ☀ Solar Power Prediction
+
+Forecast solar energy generation using historical and weather datasets.
+
+---
+
+# 🧠 Tech Stack
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+---
+
+## Data Analytics
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Power BI
+
+Excel
+
+SQL
+
+---
+
+## Machine Learning
+
+Scikit-Learn
+
+TensorFlow
+
+Machine Learning
+
+Deep Learning
+
+NLP
+
+Feature Engineering
+
+Model Deployment
+
+---
+
+## Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Jupyter Notebook
+
+Google Colab
+
+Canva
+
+Docker *(Learning)*
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theedharmik&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theedharmik&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=theedharmik&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Dharmik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theedharmik&theme=tokyo-night)]()
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=theedharmik&theme=tokyonight&column=4&margin-w=15&margin-h=15)]()
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Generative AI
+- 🧠 LLM Applications
+- 📈 Data Analytics
+- 📊 Power BI
+- ☁ Cloud Computing
+- 🐳 Docker
+- 🚀 MLOps
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dharmik-parashar-5793a8293/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dharmikparashar02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/theedharmik">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Artificial Intelligence isn't about replacing humans; it's about empowering them with better decisions."**
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
